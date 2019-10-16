@@ -1,1 +1,3 @@
 practice
+
+console.log("hello world");
